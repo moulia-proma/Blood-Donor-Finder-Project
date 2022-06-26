@@ -1,0 +1,156 @@
+92
+Sylhet Patient Care Ambulance Service
+Medical College Rd,Sylhet 3100
+01345654565
+93
+Metropoliton Ambulance Service
+Surma Tower,Sylhet
+01711069486
+94
+Shoumic Ambulance
+Hawa Para Sylhet
+01821-719241
+95
+Sylhet Ambulance Service
+Noyasorok,sylhet
+0821-721103
+96
+AL-Madina Ambulance
+Uposohor,Sylhet
+01876565432
+97
+City Corporation Ambulance
+Modina market,Sylhet
+01989876543
+10
+Sylhet health Care Ambulance Service
+Medical College Rd,Sylhet 2100
+01345654444
+98
+Mirabazar Ambulance Service
+Mirabazar,Sylhet
+01711069540
+99
+Shiuli Ambulance
+Sheikhghat,Sylhet
+01821-719512
+70
+Sylhet Ambulance Service
+Zindabazar,Sylhet
+0821-721100
+71
+Alamin Ambulance Center
+Zindabazar,Sylhet
+01876565999
+72
+Help City Ambulance
+Surma tower,Sylhet
+01987676788
+1
+Alauddin Ambulance Service
+Medical College Rd,Sylhet
+01345655989
+2
+Ragib Ali Ambulance Service
+lamabazar,Sylhet
+01711069111
+3
+Shoumitro Ambulance
+Rikabibazar,Sylhet
+01821-719000
+4
+Lamia Ambulance Service
+Lamabazar,Sylhet
+0121-7211033
+5
+Regent Hospital Ambulance Service
+Uposohor,Sylhet
+01876565456
+6
+Adiba Ambulance
+Surma tower,Sylhet
+01988787654
+7
+Care Hospital Ambulance Service
+Zindabazar Rd,Sylhet
+01345655555
+8
+Mira Ambulance Service
+jail road,Sylhet
+01711069100
+9
+Shapla Ambulance
+jitu miyar point,Sylhet
+01821-719700
+10
+S L Ambulance Service
+Uposohor,Sylhet
+0821-721200
+11
+Kakoli Ambulance Center
+Zindabazar,Sylhet
+01876565787
+12
+City Hospital Ambulance
+Surma tower,Sylhet
+01987676555
+13
+Rabeya Ambulance Service
+Medical College Rd,Sylhet 3100
+01767654323
+14
+Shamim Ambulance Service
+Surma Tower,Sylhet
+01712345654
+15
+Shorme  Ambulance Service
+Surma Tower,Sylhet
+01987876543
+16
+Shah Alom Ambulance Service
+Noyasorok,sylhet
+01466-721103
+17
+Mina Ambulance
+Uposohor,Sylhet
+01876568100
+18
+Nobita Ambulance Service
+Modina market,Sylhet
+01987676571
+19
+Sijuka Ambulance Service
+Medical College Rd,Sylhet 2100
+01345654449
+20
+Jaiko Ambulance Service
+Mirabazar,Sylhet
+01711069589
+21
+Dora  Ambulance
+Sheikhghat,Sylhet
+01821-711512
+22
+Era  Ambulance Service
+Zindabazar,Sylhet
+0821-721500
+23
+Nilu Ambulance Service
+Modina market,Sylhet
+01987676572
+24
+Mujib Ambulance Service
+Medical College Rd,Sylhet 2100
+01345654440
+25
+Joya Ambulance Service
+Mirabazar,Sylhet
+01711069579
+26
+Dibya Ambulance Service
+Sheikhghat,Sylhet
+01821-711222
+27
+Eraboti Ambulance Service
+Zindabazar,Sylhet
+0821-721511

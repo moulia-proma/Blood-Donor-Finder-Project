@@ -1,0 +1,312 @@
+26
+Debasish Das
+DMU(USG)
+USG specialist
+Park vew medical
+sat-sun
+2-4Pm
+01876543212
+28
+Dibendra Deb
+MS(Eye)
+Eye specialist
+Medicare clinic
+sat-mon
+3-5Pm
+01987654321
+32
+Shuvo Roy
+FCPS(ENT)
+ENT specialist
+Park View Medical sylhet
+sat-mon
+6PM-8PM
+01876543456
+34
+Dr.Mahbub Khan
+FCPS(Cardiologist)
+Cardiologist
+Medinova Medical Services Consul
+Sat-Wed
+10.00-12:30Pm
+01911356298
+35
+Dr. A K M Humayon Kabir
+FCPS(Medicine)
+Medicine
+Popular Diagnostic Center
+Sun-Fri
+6PM-9PM
+01601137528
+36
+Dr.Syed Jamil Abdal
+FCPS(Medicine)
+Medicine
+Green life Hospital
+Sat-Wed
+4PM-10PM
+01777162580
+37
+Dr.Ziauddin Ahmed
+FCPS(Medicine)
+Medicine
+Kidney Foundation Hospital
+Mon
+10Am-1.00PM
+01567898765
+40
+Dibya Dey
+DMU(USG)
+USG specialist
+Park vew medical
+sat-sun
+4-8Pm
+01876543213
+41
+Dipa Deb
+MS(Eye)
+Eye specialist
+MediPlus clinic 
+sat-mon
+3-5Pm
+01987654322
+42
+Shuvrika Roy
+FCPS(ENT)
+ENT specialist
+Park View Medical sylhet
+sat-mon
+5-9Pm
+01876543458
+43
+Dr.Mahbuba Khan
+FCPS(Cardiologist)
+Cardiologist
+Medinova Medical Services Consul
+Sat-Wed
+10.00-12:30Pm
+01911356299
+44
+Dr. A K M Humayon Kabir
+FCPS(Medicine)
+Medicine
+Popular Diagnostic Center
+Sun-Fri
+6PM-9PM
+01601137538
+45
+Dr.Syeda Jamila
+FCPS(Medicine)
+Medicine
+Green life Hospital
+Sat-Wed
+6PM-8PM
+01777162590
+46
+Dr.Zia Ahmed
+FCPS(Medicine)
+Medicine
+Help Foundation Hospital
+Mon
+10Am-1.00PM
+01567898766
+47
+Sirina begum
+MD(Oncology)
+Oncologist
+City Hosiptal,Sylhet
+sat
+3Pm-6PM
+01987654567
+48
+Syada Binte Priya
+MS(gyne and obs.)
+Gynecologist
+Sylhet M.A.G Osmani Medical
+sat-fri
+5PM-8PM
+01234567898
+49
+Sourov Roy
+FCPS(Oncology)
+Oncologist
+Sylhet M.A.G Osmani Medical
+Fri
+3PM-6PM
+01987654321
+50
+Moumita Das Prapti
+FCPS(gyne and obs.)
+Gynecologist
+Sylhet women's medical 
+Sat-Mon
+9AM-11AM
+01898765456
+81
+Dr.Tanjina Sultana Mahin 
+DMU(USG)
+USG specialist
+Park vew medical
+Sun-Wed
+2PM-6PM
+01876543212
+82
+Dr. Mumtahina Mubin
+MS(Eye)
+Eye specialist
+Medicare clinic
+Sat-Thu
+10AM-1PM
+01988659870
+83
+Dr.Umme Tamanna 
+FCPS(ENT)
+ENT specialist
+Park View Medical sylhet
+Sat-Mon
+3PM-7PM
+01718241598
+84
+Dr.Mahbuba Rahman
+FCPS(Cardiologist)
+Cardiologist
+Medinova Medical Services Consul
+Sat-Wed
+10AM-1PM
+01928356223
+85
+Dr. Tuhin Haque 
+FCPS(Medicine)
+Medicine
+Popular Diagnostic Center
+Sun-Thu
+3PM-7PM
+01601134721
+86
+Dr.Syeda Fariha sharmin
+FCPS(Medicine)
+Medicine
+Green life Hospital
+Sat-Wed
+2PM-6PM
+01767162596
+87
+Dr.Muhammad Ahmed Mahin
+FCPS(Medicine)
+Medicine
+Kidney Foundation Hospital
+Sun-Thu
+10Am-1.00PM
+01710890302
+88
+Dr.Khurshid Jahan
+DMU(USG)
+USG specialist
+Park vew medical
+Sat-Wed
+10AM-1PM
+01716073983
+89
+Dr.Nasrin Sultana 
+MS(Eye)
+Eye specialist
+MediPlus clinic 
+Sat-Thu
+3PM-6PM
+01312870384
+90
+Dr.Zahid Hossain 
+FCPS(ENT)
+ENT specialist
+Park View Medical sylhet
+Sun-Wed
+3PM-7PM
+01976543486
+91
+Dr. Singdha Chakraborty 
+FCPS(Cardiologist)
+Cardiologist
+Medinova Medical Services Consul
+Sat-Wed
+10AM-2Pm
+01944356200
+92
+Dr. Humayon Kabir
+FCPS(Medicine)
+Medicine
+Popular Diagnostic Center
+Sun-Thu
+10AM-1PM
+01908137536
+93
+Dr. Farjana Ferdous Munmun
+FCPS(Medicine)
+Medicine
+Green life Hospital
+Sat-Wed
+3PM-8PM
+01963163736
+94
+Dr. Tanvir Ahmed
+FCPS(Medicine)
+Medicine
+Help Foundation Hospital
+Sun-wed
+10Am-1PM
+01966798799
+95
+Dr. Bilkis Akter
+MD(Oncology)
+Oncologist
+City Hosiptal,Sylhet
+Sat-Thu
+3PM-7PM
+01907654457
+96
+Dr. Farhana Rahman
+MS(gyne and obs.)
+Gynecologist
+Sylhet M.A.G Osmani Medical
+Sat-Fri
+10AM-1PM
+01788241524
+97
+Dr.Pollob Roy
+FCPS(Oncology)
+Oncologist
+Sylhet M.A.G Osmani Medical
+Sun-Thu
+3PM-7PM
+01980865321
+98
+Dr.Moumita Das 
+FCPS(gyne and obs.)
+Gynecologist
+Sylhet women's medical 
+Sat-Mon
+9AM-11AM
+01808785401
+99
+Dr. Helal Ahmed
+MD(Medicine)
+Medicine  specialist
+Park vew medical
+Sun-Wed
+10AM-1PM
+01710903270
+100
+Dr. MD. Ferdous Rayhan
+MS(Eye)
+Eye specialist
+Medicare clinic
+Sat -Mon
+3PM-7PM
+01913401137
+101
+Dr.Hema Chowdhury 
+FCPS(ENT)
+ENT specialist
+Park View Medical sylhet
+Sat-Thu
+10AM-1PM
+01912460211
